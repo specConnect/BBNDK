@@ -1,0 +1,8 @@
+This is a BlackBerry Native Development Application project.
+
+It is open source for anyone who wants to add and develop this application.
+
+More application details will be provided.
+
+Cheers,
+Active Designs
